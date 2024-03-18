@@ -10,9 +10,20 @@ To use, simply put "Content" folder of this repo to your Unreal Engine project f
 https://github.com/Yorshka-Vermilion/UnrealEngine---Maze-generator-and-solver/assets/59543577/48cb5ae8-d4df-425a-9ec6-1c693a9ec570
 
 ## Diferent sizes:
-You can change desired size of a maze in the properties panel of and "A_Maze_Generator" object.
+You can change desired size of a maze in the details panel of and "A_Maze_Generator" object.
+
+![Przechwytywanie](https://github.com/Yorshka-Vermilion/UnrealEngine---Maze-generator-and-solver/assets/59543577/d5ae872e-972c-4650-a376-4d1808d71aad)
+
+#### Size 15x15
+
 ![15X15](https://github.com/Yorshka-Vermilion/UnrealEngine---Maze-generator-and-solver/assets/59543577/eb2492a1-31b9-4ebb-a4a2-aa844c7c1dbc)
+
+#### Size 25x25
+
 ![Screenshot 2024-03-18 11-57-18](https://github.com/Yorshka-Vermilion/UnrealEngine---Maze-generator-and-solver/assets/59543577/cc30fb52-24d2-4198-bc3b-3111511e9efa)
+
+#### Size 35x35
+
 ![Screenshot 2024-03-18 11-58-06](https://github.com/Yorshka-Vermilion/UnrealEngine---Maze-generator-and-solver/assets/59543577/9b09d709-4520-4214-ac6e-f13b33e93ae5)
 
 ## A* solver
