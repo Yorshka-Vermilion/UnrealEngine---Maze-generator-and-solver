@@ -26,3 +26,5 @@ https://github.com/Yorshka-Vermilion/UnrealEngine---Maze-generator-and-solver/as
 
 https://github.com/Yorshka-Vermilion/UnrealEngine---Maze-generator-and-solver/assets/59543577/09c9525f-3552-460c-880d-d0b91bb98f88
 
+# Blueprint
+![Przechwytywanie](https://github.com/Yorshka-Vermilion/UnrealEngine---Maze-generator-and-solver/assets/59543577/40c0b775-42e2-4dbd-b402-5a8cf21373fa)
